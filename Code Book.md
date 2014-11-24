@@ -5,7 +5,9 @@ This code book covers processed data based off the original data set, covered in
 
 Subject_id 
     Identifies the subject performing the observation
+    
     Integer: 1- or 2- digit
+    
     Range: 1:30
     
 Activity
@@ -26,7 +28,7 @@ tBodyAccmeanZ
 tBodyAccstdX            
 tBodyAccstdY             
 tBodyAccstdZ             
-    Average of the standard deviation of acceleration time values from the Accelerometr for either the X, Y, or Z variable. 
+    Average of the standard deviation of acceleration time values for either the X, Y, or Z variable. 
 
 tGravityAccmeanX        
 tGravityAccmeanY         
